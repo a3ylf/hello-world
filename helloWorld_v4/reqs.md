@@ -4,17 +4,3 @@
 ### percebido dessa forma pois está escondida ao declarar essa brilhante frase
 ### como string, e um caractér não é nada mais doq um valor x que representa 
 ### algo em uma tabela de caracteres, então porque não trabalhar com estes numerais
-
-
-
-
-
-
-
-
-
-
-
-
-
-
